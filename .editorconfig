@@ -1,4 +1,5 @@
 [*.fs]
+end_of_line=lf
 indent_size=4
 max_line_length=80
 fsharp_semicolon_at_end_of_line=false
